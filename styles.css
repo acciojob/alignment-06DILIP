@@ -6,12 +6,12 @@ h1{
 #table-1{
     height: 10rem;
     width: 1500px;
-    border: 2px solid black;
+    border: 1px solid black;
     border-collapse: collapse;
 
 }
 tr td{
-     border: 2px solid black;
+     border: 1px solid black;
       border-collapse: collapse;
 }
 .center{
@@ -25,7 +25,7 @@ tr td{
     height: 10rem;
     margin-top: 5rem;
     width: 1500px;
-    border: 2px solid black;
+    border: 1px solid black;
     border-collapse: collapse;
 
 }
@@ -33,7 +33,7 @@ tr td{
     height: 10rem;
     margin-top: 5rem;
     width: 1500px;
-    border: 2px solid black;
+    border: 1px solid black;
     border-collapse: collapse;
 
 }
@@ -41,7 +41,7 @@ tr td{
     height: 20px;
 }
 img{
-    width: 580px; height: 150px;     
+width: 580px; height: 150px;     
    background-size: cover; 
    background-position: center;
 }
